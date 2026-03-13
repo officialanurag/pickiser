@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy - Pickiser Fashion</title>
+  <meta name="description" content="Privacy Policy for Pickiser Fashion mobile application." />
+  <style>
+    :root { --fg:#111; --muted:#555; --bg:#fff; --card:#f7f7f8; --link:#0b57d0; }
+    body { margin:0; font-family: Arial, Helvetica, sans-serif; color:var(--fg); background:var(--bg); line-height:1.6; }
+    .wrap { max-width: 900px; margin: 0 auto; padding: 32px 20px 60px; }
+    h1, h2, h3 { line-height:1.3; margin-top: 1.4em; }
+    h1 { margin-top:0; font-size: 2rem; }
+    h2 { font-size: 1.3rem; border-bottom:1px solid #e9e9ec; padding-bottom: 6px; }
+    p, li { font-size: 1rem; }
+    .meta { color:var(--muted); margin-bottom: 20px; }
+    .card { background: var(--card); border:1px solid #ececf0; border-radius:10px; padding:14px 16px; }
+    a { color:var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    code { background:#f0f0f2; padding:2px 6px; border-radius:4px; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <h1>Privacy Policy</h1>
+    <p class="meta">
+      <strong>Effective date:</strong> March 11, 2026<br />
+      <strong>App:</strong> Pickiser Fashion (Android/iOS)
+    </p>
+
+    <div class="card">
+      <p>
+        This Privacy Policy explains how Pickiser Fashion ("we", "our", or "us")
+        collects, uses, and protects your information when you use our mobile app.
+      </p>
+    </div>
+
+    <h2>1. Information We Collect</h2>
+    <h3>a) Information you provide directly</h3>
+    <ul>
+      <li>Account details (such as name, email, login credentials).</li>
+      <li>Profile information you choose to add.</li>
+      <li>Images you upload (for wardrobe, body reference, or styling features).</li>
+      <li>Support messages or feedback you send us.</li>
+    </ul>
+
+    <h3>b) Information collected automatically</h3>
+    <ul>
+      <li>Device and app information (device model, OS version, app version, crash diagnostics).</li>
+      <li>Usage data (feature interactions, session events, performance logs).</li>
+      <li>Network and technical logs necessary for app security and reliability.</li>
+    </ul>
+
+    <h3>c) Permissions</h3>
+    <ul>
+      <li><strong>Camera:</strong> used to capture photos for app features (e.g., wardrobe/styling).</li>
+      <li><strong>Photos/Storage:</strong> used to select and upload images.</li>
+      <li><strong>Notifications (if enabled):</strong> used to send app-related alerts and updates.</li>
+      <li><strong>Location (if enabled):</strong> used only for location-dependent features you use.</li>
+    </ul>
+
+    <h2>2. How We Use Information</h2>
+    <ul>
+      <li>To provide and operate app features.</li>
+      <li>To personalize your experience and recommendations.</li>
+      <li>To process and store your uploaded content.</li>
+      <li>To improve app performance, quality, and security.</li>
+      <li>To communicate with you about support, updates, and important notices.</li>
+      <li>To comply with legal obligations.</li>
+    </ul>
+
+    <h2>3. Data Sharing</h2>
+    <p>We do not sell your personal data.</p>
+    <p>We may share data with:</p>
+    <ul>
+      <li>Trusted service providers (e.g., cloud hosting, analytics, storage, messaging) who process data on our behalf.</li>
+      <li>Authorities when required by law or to protect rights, safety, and security.</li>
+      <li>Successors in the event of a merger, acquisition, or asset transfer (with appropriate safeguards).</li>
+    </ul>
+
+    <h2>4. Data Retention</h2>
+    <p>
+      We retain personal data only as long as necessary for the purposes described in this policy,
+      unless a longer retention period is required by law.
+    </p>
+
+    <h2>5. Security</h2>
+    <p>
+      We use reasonable technical and organizational measures to protect your information.
+      However, no system is 100% secure, and we cannot guarantee absolute security.
+    </p>
+
+    <h2>6. Your Rights and Choices</h2>
+    <ul>
+      <li>You may access, correct, or delete your data (subject to legal limitations).</li>
+      <li>You may disable permissions (camera/photos/notifications) in device settings.</li>
+      <li>You may request account deletion by contacting us.</li>
+    </ul>
+
+    <h2>7. Children's Privacy</h2>
+    <p>
+      Our app is not directed to children under 13 (or the age required by local law),
+      and we do not knowingly collect personal data from children.
+    </p>
+
+    <h2>8. International Data Transfers</h2>
+    <p>
+      Your data may be processed in countries other than your own. Where applicable,
+      we use safeguards required by law for cross-border data transfers.
+    </p>
+
+    <h2>9. Changes to This Policy</h2>
+    <p>
+      We may update this Privacy Policy from time to time. We will post the updated version
+      on this page and update the effective date.
+    </p>
+
+    <h2>10. Contact Us</h2>
+    <p>
+      If you have questions or requests regarding this Privacy Policy, contact us at:<br />
+      <strong>Email:</strong> <a href="mailto:support@pickiserfashion.com">support@pickiserfashion.com</a><br />
+      <strong>Company:</strong> Pickiser Fashion<br />
+      <strong>Website:</strong> <a href="https://www.pickiserfashion.com">https://www.pickiserfashion.com</a>
+    </p>
+
+    <hr />
+    <p class="meta">
+      Note: This template is provided for operational use and should be reviewed by legal counsel
+      for your jurisdiction and business model.
+    </p>
+  </main>
+</body>
+</html>
